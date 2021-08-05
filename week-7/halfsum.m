@@ -7,3 +7,4 @@ function s = halfsum(M)
        end
    end
 end
+abcd
